@@ -1,0 +1,5 @@
+3 3 1 Black tiles always take precedence; if there is a single one, the result will be black.
+1 0 7
+7 1 7
+7 0 1
+A 0 0 2 2

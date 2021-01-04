@@ -1,0 +1,4 @@
+2 6 1 Larger tiles, of any size, can also be combined, as long as they are all exactly the same size and the result is a rectangle.
+1 1 2 2 2 3
+1 2 2 2 3 1
+A 0 0 5 1

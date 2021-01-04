@@ -1,0 +1,6 @@
+4 2 1 White tiles are easily overwhelmed; the result tile is white only if all of the initial tiles are white.
+1 7
+7 7
+7 7
+7 1
+A 0 0 1 3
